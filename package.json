@@ -23,6 +23,7 @@
   "homepage": "https://github.com/TheBrainFamily/cypress-cucumber-example#readme",
   "dependencies": {
     "@bahmutov/add-typescript-to-cypress": "^2.0.0",
+    "@types/node": "^10.3.4",
     "cypress": "^3.0.1",
     "cypress-cucumber-preprocessor": "^1.0.0",
     "typescript": "^2.9.2"
